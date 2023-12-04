@@ -7,3 +7,4 @@ This year I will try as much as possible to solve it with various other language
 Day 1: 2 stars got using Kotlin
 Day 2: 2 stars got using Kotlin
 Day 3: 2 stars got using Kotlin
+Day 4: 2 stars got using Kotlin
