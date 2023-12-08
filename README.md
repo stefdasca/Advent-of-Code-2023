@@ -11,3 +11,4 @@ Day 4: 2 stars got using Kotlin
 Day 5: 2 stars got using C++
 Day 6: 2 stars got using Kotlin
 Day 7: 2 stars got using C++
+Day 8: 2 stars got using Kotlin
