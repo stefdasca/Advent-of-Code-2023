@@ -23,3 +23,5 @@ Day 8: 2 stars got using Kotlin
 Day 9: 2 stars got using Kotlin
 
 Day 10: 2 stars got using Python (needed some hints for this one)
+
+Day 11: 2 stars got using C++
