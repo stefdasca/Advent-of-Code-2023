@@ -31,3 +31,7 @@ Day 12: 2 stars got using C++
 Day 13: 2 stars got using Kotlin
 
 Day 14: 2 stars got using C++
+
+Day 15: 2 stars got using C++ 
+
+NOTE: didn't have much time lately so I preferred using more C++ lately
