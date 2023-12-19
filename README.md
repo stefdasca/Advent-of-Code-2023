@@ -41,3 +41,5 @@ Day 16: 2 stars got using C++
 Day 17: 2 stars got using C++ 
 
 Day 18: 2 stars got using C++ 
+
+Day 19: 2 stars got using C++ 
