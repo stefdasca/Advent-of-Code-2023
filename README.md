@@ -51,3 +51,7 @@ Day 21: 2 stars got using C++
 Day 22: 2 stars got using C++ 
 
 Day 23: 2 stars got using C++ 
+
+Day 24: 2 stars got using Python (easier to work around with equations in Python)
+
+Day 25: 2 stars got using C++
